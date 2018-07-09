@@ -3,4 +3,5 @@
 2) Data analysis and cleaning on renewable energy of top 15 towns
 3) Intereactive Plotting which changes colour accorging to the range provided by the user.
 4) Assignment done during a course for data clean and manipulation in pandas
+5) Extracting text (dates) from a lengthy given test and sorting the dates.
 Plese use https://nbviewer.jupyter.org if ipynb is not displayed on github. Put the URL link of the ipynb on https://nbviewer.jupyter.org to view the python notebook
